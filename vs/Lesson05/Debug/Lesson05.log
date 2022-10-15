@@ -1,0 +1,3 @@
+﻿  Demo.cpp
+D:\Universitas Brawijaya\Lecture\Semester 5\GRAFKOM\Tugas-1 - Copy\vs\Lesson05\Demo.cpp(61,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Lesson05.vcxproj -> D:\Universitas Brawijaya\Lecture\Semester 5\GRAFKOM\Tugas-1 - Copy\vs\Debug\Lesson05.exe
